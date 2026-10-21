@@ -13,3 +13,9 @@ footer {
     color: #777;
     font-size: 14px;
 }
+
+nav a {
+    margin-right: 15px;
+    color: #1f4e79;
+    text-decoration: none;
+}
